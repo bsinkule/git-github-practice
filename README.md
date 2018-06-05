@@ -10,7 +10,7 @@ Hello World!!
 
 - Clone a Repository:
 ```
-
+$ git clone *pasted url*
 ```
 
 - Check Status:
