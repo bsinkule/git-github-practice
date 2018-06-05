@@ -20,7 +20,7 @@ $ git status
 
 - Stage (Add):
 ```
-
+$ git add -A
 ```
 
 - Commit:
