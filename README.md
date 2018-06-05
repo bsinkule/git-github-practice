@@ -15,7 +15,7 @@ $ git clone *pasted url*
 
 - Check Status:
 ```
-
+$ git status
 ```
 
 - Stage (Add):
