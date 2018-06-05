@@ -4,7 +4,7 @@ Let's practice using git and github through our terminal CLI!
 
 ## Add Some Text Below
 
-Hello World!!
+Hello World!! *AND SAVE*
 
 ## Write Basic Git Commands Below
 
@@ -25,17 +25,17 @@ $ git add -A
 
 - Commit:
 ```
-
+$ git commit -m "*message*"
 ```
 
 ## Write Basic GitHub Commands Below
 
 - Push:
 ```
-
+$ git push origin master
 ```
 
 - Check Remote:
 ```
-
+$ git remote *usually to identical links (fetch and push)*
 ```
